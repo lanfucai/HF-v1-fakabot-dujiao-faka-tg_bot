@@ -1,4 +1,22 @@
 # HF-dujiao-faka-tg_bot
+
+
+
+## 📢码支付/易支付地址
+码支付：https://pay.mymzf.com/
+
+小微易支付：https://pay.lanfucai.com/
+
+小微云计算：https://www.xwicloud.com
+
+小微云挂机宝（海外服务器）：https://idc.xwicloud.com/
+
+QQ交流群：271206663
+
+
+电报：[t.me/hao1234botpay](https://t.me/hao1234botpay)
+
+
 TG自动/自助发卡机器人-后台连接独角数卡补丁（非源码）
 注意：本git上的文件，非源码，只是开发某个阶段的一些文件补丁，切勿直接部署，切勿转载贩卖获利，内置有API渠道，我这边后台可看到每一个网站的API数据，非正规渠道购买，非正版，恶意魔改的程序，我这边会选择性攻击篡改你网站的数据，包括您的支付收款系统，由于很多人拿本git页面去转售，导致最后很多人被骗，无代理转销售，擦亮眼睛。博客官网：hfz.pw 商城：store.hfz.pw
 <!-- wp:heading {"textAlign":"left","level":3} -->
